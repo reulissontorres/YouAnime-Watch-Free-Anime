@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Azumanga Daioh",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/1066/117358.jpg",
+    "audioType": "Legendado",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episódio 1",
+            "thumbnail": "https://i.ytimg.com/vi/ZxTz5fQg6MA/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALgA4oCDAgAEAEYciBBKEIwDw==&rs=AOn4CLCt0OVHJGyXm0JvE8wGo89JyIFsoA",
+            "youtubeId": "ZxTz5fQg6MA?si=m0p8lGqvHX1YUO5k"
+          },
+          {
+            "episode": 2,
+            "title": "Episódio 2",
+            "thumbnail": "https://i.ytimg.com/vi/9dnxCA4wbz0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALgA4oCDAgAEAEYZSBaKFMwDw==&rs=AOn4CLBUmce6_NEbSd23V0ov7gYBTRyukg",
+            "youtubeId": "9dnxCA4wbz0?si=i3UMKnvzOtN29tcp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Cardcaptor Sakura",
+    "coverImage": "https://cdn.myanimelist.net/images/anime/8/60781.jpg",
+    "audioType": "Dublado",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Sakura e o Mistorioso Livro Mágico",
+            "thumbnail": "https://i.ytimg.com/vi/mv7qSWF7ohc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCah0afPJ15x6OqtyxzbOAy6YxEnQ",
+            "youtubeId": "mv7qSWF7ohc?si=Vpxl3ROYzA_h3aAY"
+          },
+          {
+            "episode": 2,
+            "title": "A Amiga de Sakura",
+            "thumbnail": "https://i.ytimg.com/vi/F4Hwq41Q-sY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAhmSsa2jTkPriWTnom8dtZ0-mGLA",
+            "youtubeId": "F4Hwq41Q-sY?si=KkeUvjRqxxgntHDV"
+          },
+          {
+            "episode": 3,
+            "title": "O Primeiro Encontro de Sakura",
+            "thumbnail": "https://i.ytimg.com/vi/RM-tTXHFBvM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCwlUQDupZYvPl19xmo_ra8nkLRIw",
+            "youtubeId": "RM-tTXHFBvM?si=Sj2r9Wa6Tur8q9hD"
+          }
+        ]
+      }
+    ]
+  }
+]
