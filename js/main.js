@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Função para buscar e exibir os animes
     async function fetchAnimes() {
         try {
-            const response = await fetch('../animes.json');
+            const response = await fetch('animes.json');
             if (!response.ok) {
                 throw new Error('Erro ao carregar o arquivo JSON.');
             }
