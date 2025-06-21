@@ -10,16 +10,161 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "Episódio 1",
+            "title": "A Criança no Ensino Médio",
             "thumbnail": "https://i.ytimg.com/vi/ZxTz5fQg6MA/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALgA4oCDAgAEAEYciBBKEIwDw==&rs=AOn4CLCt0OVHJGyXm0JvE8wGo89JyIFsoA",
             "youtubeId": "ZxTz5fQg6MA?si=m0p8lGqvHX1YUO5k"
           },
           {
             "episode": 2,
-            "title": "Episódio 2",
+            "title": "Dia da Osaka",
             "thumbnail": "https://i.ytimg.com/vi/9dnxCA4wbz0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALgA4oCDAgAEAEYZSBaKFMwDw==&rs=AOn4CLBUmce6_NEbSd23V0ov7gYBTRyukg",
             "youtubeId": "9dnxCA4wbz0?si=i3UMKnvzOtN29tcp"
+          },
+          {
+            "episode": 3,
+            "title": "Nyamo",
+            "thumbnail": "https://i.ytimg.com/vi/UczVXr86v5Y/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AZ4LgAK4CIoCDAgAEAEYTyBXKGUwDw==&rs=AOn4CLDrD8PD9nYor2blNh08NLCJTjqApQ",
+            "youtubeId": "UczVXr86v5Y?si=QVfccMsSaHuydwQX"
+          },
+          {
+            "episode": 4,
+            "title": "Piscina! Piscina Piscina!",
+            "thumbnail": "https://i.ytimg.com/vi/xiFNEU31KnM/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYTyBNKGUwDw==&rs=AOn4CLDXwsKlCmGo202hqTLVq8lUY0r6JQ",
+            "youtubeId": "xiFNEU31KnM?si=4QY6ccTe-U5bYgCh"
+          },
+          {
+            "episode": 5,
+            "title": "Férias de Verão",            
+            "thumbnail": "https://i.ytimg.com/vi/HpFCkiFRil4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYZSBPKE4wDw==&rs=AOn4CLBnDJpHxfbQ8aaQAqHQohzwPq5zhg",
+            "youtubeId": "HpFCkiFRil4?si=4xOH6Cw8GQ_I_Fpe"
+          },
+          {
+            "episode": 6,
+            "title": "Festival de Esportes",
+            "thumbnail": "https://i.ytimg.com/vi/qpT__zNRaMM/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYNiBcKGUwDw==&rs=AOn4CLAlkkWgkjF_DOKWtIMw1iZdUz0FFw",
+            "youtubeId": "qpT__zNRaMM?si=8JR32KouLjANyEtV"
+          },
+          {
+            "episode": 7,
+            "title": "Festival Cultural",
+            "thumbnail": "https://i.ytimg.com/vi/IztoiFl0bY8/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYVCBlKGEwDw==&rs=AOn4CLAGFiq35CyUoxXKFlYJ7Gor0dzfWg",
+            "youtubeId": "IztoiFl0bY8?si=Z6fctYJca2qfr25S"
+          },
+          {
+            "episode": 8,
+            "title": "Especial Sonhos de Ano Novo",
+            "thumbnail": "https://i.ytimg.com/vi/wsshOwM23CM/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYUyBgKGUwDw==&rs=AOn4CLBhMmMcZEOfV2-uKzuAT9VWQ4BTKg",
+            "youtubeId": "wsshOwM23CM?si=03EC4s_pCGgSU5WJ"
+          },
+          {
+            "episode": 9,
+            "title": "Sakaki-san",
+            "thumbnail": "https://i.ytimg.com/vi/XD4EeAIG8cA/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYSyBlKEowDw==&rs=AOn4CLDfZgzQgnF5PoqgsDgyyeqV5A7JZg",
+            "youtubeId": "XD4EeAIG8cA?si=qLCqw90HnNMyPHMR"
+          },
+          {
+            "episode": 10,
+            "title": "Nós Somos Estudantes do Segundo Ano",
+            "thumbnail": "https://i.ytimg.com/vi/Gawhlr-BEX0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYWSBZKGUwDw==&rs=AOn4CLB61uXar1_-2QsvZbAc7Lmxp5LvBA",
+            "youtubeId": "Gawhlr-BEX0?si=6fnQuUQQRY5Png2k"
+          },
+          {
+            "episode": 11,
+            "title": "Kagura e Sakaki",
+            "thumbnail": "https://i.ytimg.com/vi/WheexQwYp8A/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYVSBlKE4wDw==&rs=AOn4CLC-oGX1aHR5ZDXQw9appOpzQy-0hg",
+            "youtubeId": "WheexQwYp8A?si=FVC6S7toaDFNYf0w"
+          },
+          {
+            "episode": 12,
+            "title": "Diada Chiyo-chan",
+            "thumbnail": "https://i.ytimg.com/vi/QGwa9DYj-W4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYZSBHKEEwDw==&rs=AOn4CLA60gZRm64K9CtfRtQDajEwzmqEPA",
+            "youtubeId": "QGwa9DYj-W4?si=_TafYCU_0h8ya8TG"
+          },
+          {
+            "episode": 13,
+            "title": "Provas",
+            "thumbnail": "https://i.ytimg.com/vi/btTPO7mpojg/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYfyA2KEAwDw==&rs=AOn4CLA-9PsMVhI0TM9ZM61p5r98RbIcfQ",
+            "youtubeId": "btTPO7mpojg?si=jJlRcs9_oIf-0wYs"
+          },
+          {
+            "episode": 14,
+            "title": "O Mar, Quimonos e Festa",
+            "thumbnail": "https://i.ytimg.com/vi/8fZdnicfin8/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYNSBlKEUwDw==&rs=AOn4CLBeHMFjoTSae7a2DsZE5LeFS69CIw",
+            "youtubeId": "8fZdnicfin8?si=Zqaey7utuSg5IAi4"
+          },
+          {
+            "episode": 15,
+            "title": "Festival de Esportes do Segundo Ano",
+            "thumbnail": "https://i.ytimg.com/vi/13DlBFWFGhI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYMyBhKHIwDw==&rs=AOn4CLDAkmvbI3LO1cUT8erneqn2lY51_Q",
+            "youtubeId": "13DlBFWFGhI?si=j6aCvMC2-BBOEyA_"
+          },
+          {
+            "episode": 16,
+            "title": "Festival Cultural do Segundo Ano",
+            "thumbnail": "https://i.ytimg.com/vi/R3Eg2b1o47k/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYYyBRKGUwDw==&rs=AOn4CLDnfkFK3JKsctFxZa2QAyk-DzFh7g",
+            "youtubeId": "R3Eg2b1o47k?si=_IBzE3b-fm65Iq50"
+          },
+          {
+            "episode": 17,
+            "title": "Fim do Segundo Semestre e Natal",
+            "thumbnail": "https://i.ytimg.com/vi/QkXuPoT63u4/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYQiBIKHIwDw==&rs=AOn4CLDkZv0kYOpJrV-NMRK7Ca7N645iDg",
+            "youtubeId": "QkXuPoT63u4?si=Gh9BIvrQMSjnxwi8"
+          },
+          {
+            "episode": 18,
+            "title": "Provocações da Koyomi",
+            "thumbnail": "https://i.ytimg.com/vi/GLYUUcbMJjw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYWyBbKFswDw==&rs=AOn4CLCykMhq4FNJnJrr2d-_oKMje40iUw",
+            "youtubeId": "GLYUUcbMJjw?si=zkFHsoVJPmK6kEAi"
+          },
+          {
+            "episode": 19,
+            "title": "Uma Noite de Primavera",
+            "thumbnail": "https://i.ytimg.com/vi/ZoYRQZe_9CQ/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYSyBlKGAwDw==&rs=AOn4CLBKAWNXGt95FzpsL9U3hPo-ZWOVSA",
+            "youtubeId": "ZoYRQZe_9CQ?si=5CYJHqk99pnlGVhm"
+          },
+          {
+            "episode": 20,
+            "title": "Terceiro Ano",
+            "thumbnail": "https://i.ytimg.com/vi/ruGmuXFd3tg/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYUiBlKGAwDw==&rs=AOn4CLAT9nX5qQda5NJ595_PEUbOoJR_rQ",
+            "youtubeId": "ruGmuXFd3tg?si=bllFmLB9GEqM9Y73"
+          },
+          {
+            "episode": 21,
+            "title": "Excursão Escolar",
+            "thumbnail": "https://i.ytimg.com/vi/lFtxZiC9zqo/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYZSBOKEQwDw==&rs=AOn4CLD583gDWbUPoMPFFLpqI_VFjxvjVA",
+            "youtubeId": "lFtxZiC9zqo?si=fgKeQHhw7xuIU2R1"
+          },
+          {
+            "episode": 22,
+            "title": "Estudos Para os Exames de Admissão",
+            "thumbnail": "https://i.ytimg.com/vi/bh17rabD19Y/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYMCBlKEMwDw==&rs=AOn4CLCFYowoJnxLCRad0nF4ZiYp2zeFvg",
+            "youtubeId": "bh17rabD19Y?si=17uiAf2gqXwf3Caw"
+          },
+          {
+            "episode": 23,
+            "title": "Último Festival de Esportes",
+            "thumbnail": "https://i.ytimg.com/vi/T5Dtw2C_UYQ/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYRiBSKGUwDw==&rs=AOn4CLDYoNRNQRCZIwjo97zrW8bgIjEV6w",
+            "youtubeId": "T5Dtw2C_UYQ?si=QHTjk-zc_KA_yeL_"
+          },
+          {
+            "episode": 24,
+            "title": "Yamamayaa",
+            "thumbnail": "https://i.ytimg.com/vi/YGzhf6a0We0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ab4HgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDI5SQG5oLI38rqweCVGNKDKDrr8w",
+            "youtubeId": "YGzhf6a0We0?si=bgV2vorVZC65nJiC"
+          },
+          {
+            "episode": 25,
+            "title": "Em Frente: Os Exames de Admissão!",
+            "thumbnail": "https://i.ytimg.com/vi/bEgOiWSDGWQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCux_vuawF7bLvI5svhzInG0pHQfg",
+            "youtubeId": "bEgOiWSDGWQ?si=qE96CZVJ4k36uMvQ"
+          },
+          {
+            "episode": 26,
+            "title": "Fim",
+            "thumbnail": "https://i.ytimg.com/vi/TrYXK3R9Vos/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDqTbBQhiIE2W1MXxtlWxsVhMkrGw",
+            "youtubeId": "TrYXK3R9Vos?si=jcHnpGZ_d_7BCjxs"
           }
+
         ]
       }
     ]
