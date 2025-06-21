@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="d-flex w-100 justify-content-start align-items-center">
                         <img src="${ep.thumbnail}" alt="Thumbnail do episódio" class="me-3" style="width: 120px; height: 68px; object-fit: cover;">
                         <div>
-                           <strong>${ep.title}</strong>
+                           <strong>${ep.episode} - ${ep.title}</strong>
                         </div>
                     </div>
                 </a>
