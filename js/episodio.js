@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
         
         // Monta a URL do YouTube e a insere no iframe
-        player.src = `https://www.youtube.com/embed/${episode.youtubeId}?autoplay=1`;
+        player.src = `https://www.youtube.com/embed/${episode.youtubeId}`;
     }
 
     function setupNavigation(anime, currentSeason, currentEpisode) {
