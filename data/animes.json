@@ -378,5 +378,690 @@
         ]
       }
     ]
+  },
+  {
+    "id": 3,
+    "title": "Yu Yu Hakusho",
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BNWJmODlhODItZTZmYi00ZGNjLTk1NmYtMjE5M2IwYjI2MzI2XkEyXkFqcGc@._V1_.jpg",
+    "audioType": "Dublado",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Morte",
+            "thumbnail": "https://i.ytimg.com/vi/ekFG81_0tXI/default.jpg",
+            "youtubeId": "ekFG81_0tXI"
+          },
+          {
+            "episode": 2,
+            "title": "No mundo espiritual, teste da ressurreição",
+            "thumbnail": "https://i.ytimg.com/vi/LryCvV-okak/default.jpg",
+            "youtubeId": "LryCvV-okak"
+          },
+          {
+            "episode": 3,
+            "title": "A Promessa de um Homem",
+            "thumbnail": "https://i.ytimg.com/vi/z-sAM2-IysU/default.jpg",
+            "youtubeId": "z-sAM2-IysU"
+          },
+          {
+            "episode": 4,
+            "title": "O Fogo Ardente",
+            "thumbnail": "https://i.ytimg.com/vi/Fbbhp5VvNfU/default.jpg",
+            "youtubeId": "Fbbhp5VvNfU"
+          },
+          {
+            "episode": 5,
+            "title": "A Ressurreição, A Nova Missão",
+            "thumbnail": "https://i.ytimg.com/vi/eCXe-cwUUko/default.jpg",
+            "youtubeId": "eCXe-cwUUko"
+          },
+          {
+            "episode": 6,
+            "title": "Piores Ladrões, Hiei, Kurama e Goki",
+            "thumbnail": "https://i.ytimg.com/vi/2c6UxvSKLyo/default.jpg",
+            "youtubeId": "2c6UxvSKLyo"
+          },
+          {
+            "episode": 7,
+            "title": "O Segredo de Kurama",
+            "thumbnail": "https://i.ytimg.com/vi/F4LvLsFZ9Mw/default.jpg",
+            "youtubeId": "F4LvLsFZ9Mw"
+          },
+          {
+            "episode": 8,
+            "title": "O Rapto de Keiko",
+            "thumbnail": "https://i.ytimg.com/vi/6U6YL1mIsc0/default.jpg",
+            "youtubeId": "6U6YL1mIsc0"
+          },
+          {
+            "episode": 9,
+            "title": "O Sucessor",
+            "thumbnail": "https://i.ytimg.com/vi/JpsGz9hkIqQ/default.jpg",
+            "youtubeId": "JpsGz9hkIqQ"
+          },
+          {
+            "episode": 10,
+            "title": "A Batalha na Escuridão",
+            "thumbnail": "https://i.ytimg.com/vi/oiI5iO8KjXY/default.jpg",
+            "youtubeId": "oiI5iO8KjXY"
+          },
+          {
+            "episode": 11,
+            "title": "A Dura Batalha",
+            "thumbnail": "https://i.ytimg.com/vi/Cg_15BCXwRk/default.jpg",
+            "youtubeId": "Cg_15BCXwRk"
+          },
+          {
+            "episode": 12,
+            "title": "A Derrota de Kuwabara",
+            "thumbnail": "https://i.ytimg.com/vi/oU3NXhkUivA/default.jpg",
+            "youtubeId": "oU3NXhkUivA"
+          },
+          {
+            "episode": 13,
+            "title": "Yusuke Versus Landou",
+            "thumbnail": "https://i.ytimg.com/vi/ZmThPnF4W30/default.jpg",
+            "youtubeId": "ZmThPnF4W30"
+          },
+          {
+            "episode": 14,
+            "title": "Desafio ao Mundo do Além",
+            "thumbnail": "https://i.ytimg.com/vi/KVxGq60afMo/default.jpg",
+            "youtubeId": "KVxGq60afMo"
+          },
+          {
+            "episode": 15,
+            "title": "A Dança da Rosa",
+            "thumbnail": "https://i.ytimg.com/vi/PNW85qN5Zl0/default.jpg",
+            "youtubeId": "PNW85qN5Zl0"
+          },
+          {
+            "episode": 16,
+            "title": "A Luta do Machão Kuwabara",
+            "thumbnail": "https://i.ytimg.com/vi/8-sOfw3YoxQ/default.jpg",
+            "youtubeId": "8-sOfw3YoxQ"
+          },
+          {
+            "episode": 17,
+            "title": "Byako no Inferno",
+            "thumbnail": "https://i.ytimg.com/vi/1hHxVOJ8od0/default.jpg",
+            "youtubeId": "1hHxVOJ8od0"
+          },
+          {
+            "episode": 18,
+            "title": "A Fúria de Hiei",
+            "thumbnail": "https://i.ytimg.com/vi/roFt0f9Oz0Y/default.jpg",
+            "youtubeId": "roFt0f9Oz0Y"
+          },
+          {
+            "episode": 19,
+            "title": "O Último Monstro, Suzaku",
+            "thumbnail": "https://i.ytimg.com/vi/vuJ1aG_7liw/default.jpg",
+            "youtubeId": "vuJ1aG_7liw"
+          },
+          {
+            "episode": 20,
+            "title": "O Incrível Suzaku",
+            "thumbnail": "https://i.ytimg.com/vi/51tW39MUGvI/default.jpg",
+            "youtubeId": "51tW39MUGvI"
+          },
+          {
+            "episode": 21,
+            "title": "Yusuke, A Dura Batalha",
+            "thumbnail": "https://i.ytimg.com/vi/k4_dgvyNQG4/default.jpg",
+            "youtubeId": "k4_dgvyNQG4"
+          },
+          {
+            "episode": 22,
+            "title": "Yukina, A Triste Garota",
+            "thumbnail": "https://i.ytimg.com/vi/ls9vM2EE0Lw/default.jpg",
+            "youtubeId": "ls9vM2EE0Lw"
+          },
+          {
+            "episode": 23,
+            "title": "Os Mensageiros das Trevas",
+            "thumbnail": "https://i.ytimg.com/vi/K8mKpnsnn0U/default.jpg",
+            "youtubeId": "K8mKpnsnn0U"
+          },
+          {
+            "episode": 24,
+            "title": "Três Monstros, Terríveis Inimigos",
+            "thumbnail": "https://i.ytimg.com/vi/cYdEdeVGyPY/default.jpg",
+            "youtubeId": "cYdEdeVGyPY"
+          },
+          {
+            "episode": 25,
+            "title": "Kuwabara Arde por Amor",
+            "thumbnail": "https://i.ytimg.com/vi/F-HJNRmHCvM/default.jpg",
+            "youtubeId": "F-HJNRmHCvM"
+          },
+          {
+            "episode": 26,
+            "title": "Convite ao Torneio dos Monstros",
+            "thumbnail": "https://i.ytimg.com/vi/dIJ3CC7ACi4/default.jpg",
+            "youtubeId": "dIJ3CC7ACi4"
+          },
+          {
+            "episode": 27,
+            "title": "Partida para Ilha das Trevas",
+            "thumbnail": "https://i.ytimg.com/vi/nwsULeTJdCk/default.jpg",
+            "youtubeId": "nwsULeTJdCk"
+          },
+          {
+            "episode": 28,
+            "title": "O Pequeno e Terrivel Inimigo Linku",
+            "thumbnail": "https://i.ytimg.com/vi/7aRXfpjkcq0/default.jpg",
+            "youtubeId": "7aRXfpjkcq0"
+          },
+          {
+            "episode": 29,
+            "title": "Kurama e seu Golpe de Flor",
+            "thumbnail": "https://i.ytimg.com/vi/E8rztXm1MQ0/default.jpg",
+            "youtubeId": "E8rztXm1MQ0"
+          },
+          {
+            "episode": 30,
+            "title": "As Chamas Mortais",
+            "thumbnail": "https://i.ytimg.com/vi/3bnh_SB7pD4/default.jpg",
+            "youtubeId": "3bnh_SB7pD4"
+          },
+          {
+            "episode": 31,
+            "title": "Os Golpes do Bêbado Thiu",
+            "thumbnail": "https://i.ytimg.com/vi/hAxGiV2w1xQ/default.jpg",
+            "youtubeId": "hAxGiV2w1xQ"
+          },
+          {
+            "episode": 32,
+            "title": "A Luta Decisiva",
+            "thumbnail": "https://i.ytimg.com/vi/omikdoSlniw/default.jpg",
+            "youtubeId": "omikdoSlniw"
+          },
+          {
+            "episode": 33,
+            "title": "Colisão, Os 8 Melhores Times",
+            "thumbnail": "https://i.ytimg.com/vi/oMQTC1dVw3k/default.jpg",
+            "youtubeId": "oMQTC1dVw3k"
+          },
+          {
+            "episode": 34,
+            "title": "A Complicada Guerra",
+            "thumbnail": "https://i.ytimg.com/vi/E_3D6XrN0cw/default.jpg",
+            "youtubeId": "E_3D6XrN0cw"
+          },
+          {
+            "episode": 35,
+            "title": "Guerreira Mascarada",
+            "thumbnail": "https://i.ytimg.com/vi/-Nsv9o854fU/default.jpg",
+            "youtubeId": "-Nsv9o854fU"
+          },
+          {
+            "episode": 36,
+            "title": "A Purificação",
+            "thumbnail": "https://i.ytimg.com/vi/PXFNGIxRkmo/default.jpg",
+            "youtubeId": "PXFNGIxRkmo"
+          },
+          {
+            "episode": 37,
+            "title": "Os Ninjas das Trevas",
+            "thumbnail": "https://i.ytimg.com/vi/v2e_wnzPU1A/default.jpg",
+            "youtubeId": "v2e_wnzPU1A"
+          },
+          {
+            "episode": 38,
+            "title": "A Persistência de Kurama",
+            "thumbnail": "https://i.ytimg.com/vi/snoRlIUYhVo/default.jpg",
+            "youtubeId": "snoRlIUYhVo"
+          },
+          {
+            "episode": 39,
+            "title": "A Explosão de Yusuke",
+            "thumbnail": "https://i.ytimg.com/vi/xCT8RjxCuaI/default.jpg",
+            "youtubeId": "xCT8RjxCuaI"
+          },
+          {
+            "episode": 40,
+            "title": "Jin   O Homem Vento",
+            "thumbnail": "https://i.ytimg.com/vi/8tnZHorHtpk/default.jpg",
+            "youtubeId": "8tnZHorHtpk"
+          },
+          {
+            "episode": 41,
+            "title": "A Derrota Inesperada",
+            "thumbnail": "https://i.ytimg.com/vi/wisyHdyiLUc/default.jpg",
+            "youtubeId": "wisyHdyiLUc"
+          },
+          {
+            "episode": 42,
+            "title": "A Determinação de Kuwabara",
+            "thumbnail": "https://i.ytimg.com/vi/KmIjQCNtWQA/default.jpg",
+            "youtubeId": "KmIjQCNtWQA"
+          },
+          {
+            "episode": 43,
+            "title": "A Fisionomia da Severa Mascarada",
+            "thumbnail": "https://i.ytimg.com/vi/4HGNx4AERUM/default.jpg",
+            "youtubeId": "4HGNx4AERUM"
+          },
+          {
+            "episode": 44,
+            "title": "Hiei e seu Golpe Dragão Negro",
+            "thumbnail": "https://i.ytimg.com/vi/78oXMLN6uMA/default.jpg",
+            "youtubeId": "78oXMLN6uMA"
+          },
+          {
+            "episode": 45,
+            "title": "A Transformação de Kuromomotaru",
+            "thumbnail": "https://i.ytimg.com/vi/dbor4ZjgN80/default.jpg",
+            "youtubeId": "dbor4ZjgN80"
+          },
+          {
+            "episode": 46,
+            "title": "O Ladrão Lendário Kurama Yoko",
+            "thumbnail": "https://i.ytimg.com/vi/j3FG3dNjUEw/default.jpg",
+            "youtubeId": "j3FG3dNjUEw"
+          },
+          {
+            "episode": 47,
+            "title": "A Manta da Morte",
+            "thumbnail": "https://i.ytimg.com/vi/sX9cWydrAsE/default.jpg",
+            "youtubeId": "sX9cWydrAsE"
+          },
+          {
+            "episode": 48,
+            "title": "As Últimas Forças de Genkai",
+            "thumbnail": "https://i.ytimg.com/vi/XporAv0ifHg/default.jpg",
+            "youtubeId": "XporAv0ifHg"
+          },
+          {
+            "episode": 49,
+            "title": "O Desafio de Suzuki",
+            "thumbnail": "https://i.ytimg.com/vi/qT8E34yUM7I/default.jpg",
+            "youtubeId": "qT8E34yUM7I"
+          },
+          {
+            "episode": 50,
+            "title": "A Suprema Doutrina",
+            "thumbnail": "https://i.ytimg.com/vi/3AgcmyNkHLo/default.jpg",
+            "youtubeId": "3AgcmyNkHLo"
+          },
+          {
+            "episode": 51,
+            "title": "A Ameaça de Buí",
+            "thumbnail": "https://i.ytimg.com/vi/lk2dysx1_ZQ/default.jpg",
+            "youtubeId": "lk2dysx1_ZQ"
+          },
+          {
+            "episode": 52,
+            "title": "A Última Cartada de Kurama",
+            "thumbnail": "https://i.ytimg.com/vi/f4n-8fLJ6lE/default.jpg",
+            "youtubeId": "f4n-8fLJ6lE"
+          },
+          {
+            "episode": 53,
+            "title": "A Ressurreição de Kurama Yoko",
+            "thumbnail": "https://i.ytimg.com/vi/d05yfJXmRAA/default.jpg",
+            "youtubeId": "d05yfJXmRAA"
+          },
+          {
+            "episode": 54,
+            "title": "O Início da Tumultuada Batalha",
+            "thumbnail": "https://i.ytimg.com/vi/--WbEBuuMkE/default.jpg",
+            "youtubeId": "--WbEBuuMkE"
+          },
+          {
+            "episode": 55,
+            "title": "A Tempestade Vem! Supere a Tristeza",
+            "thumbnail": "https://i.ytimg.com/vi/WVhcjtLyWfU/default.jpg",
+            "youtubeId": "WVhcjtLyWfU"
+          },
+          {
+            "episode": 56,
+            "title": "A Partida de Genkai",
+            "thumbnail": "https://i.ytimg.com/vi/KjCkpWXu3yI/default.jpg",
+            "youtubeId": "KjCkpWXu3yI"
+          },
+          {
+            "episode": 57,
+            "title": "A Sombra de Toguro",
+            "thumbnail": "https://i.ytimg.com/vi/nvmXgHgmjcs/default.jpg",
+            "youtubeId": "nvmXgHgmjcs"
+          },
+          {
+            "episode": 58,
+            "title": "Golpe Mortal! As Chamas Negras",
+            "thumbnail": "https://i.ytimg.com/vi/JaEeRBmQrp8/default.jpg",
+            "youtubeId": "JaEeRBmQrp8"
+          },
+          {
+            "episode": 59,
+            "title": "A Estranha Sombra de Toguro",
+            "thumbnail": "https://i.ytimg.com/vi/GDKHRwINcZg/default.jpg",
+            "youtubeId": "GDKHRwINcZg"
+          },
+          {
+            "episode": 60,
+            "title": "O Ódio Explode! O Ataque de Kuwabara",
+            "thumbnail": "https://i.ytimg.com/vi/6VSl7EGNeWY/default.jpg",
+            "youtubeId": "6VSl7EGNeWY"
+          },
+          {
+            "episode": 61,
+            "title": "O Confronto de Dois Grandes Lutadores",
+            "thumbnail": "https://i.ytimg.com/vi/Onicf1lF3DQ/default.jpg",
+            "youtubeId": "Onicf1lF3DQ"
+          },
+          {
+            "episode": 62,
+            "title": "O Poder Total de Toguro",
+            "thumbnail": "https://i.ytimg.com/vi/iSR79-huCpo/default.jpg",
+            "youtubeId": "iSR79-huCpo"
+          },
+          {
+            "episode": 63,
+            "title": "Yusuke e a Doutrina Suprema",
+            "thumbnail": "https://i.ytimg.com/vi/SM0rhaqjoT8/default.jpg",
+            "youtubeId": "SM0rhaqjoT8"
+          },
+          {
+            "episode": 64,
+            "title": "A Última Batalha",
+            "thumbnail": "https://i.ytimg.com/vi/cBaXdQfMIEQ/default.jpg",
+            "youtubeId": "cBaXdQfMIEQ"
+          },
+          {
+            "episode": 65,
+            "title": "A Explosão do Estádio",
+            "thumbnail": "https://i.ytimg.com/vi/hvbnbkheoK4/default.jpg",
+            "youtubeId": "hvbnbkheoK4"
+          },
+          {
+            "episode": 66,
+            "title": "A Recompensa de Toguro",
+            "thumbnail": "https://i.ytimg.com/vi/0LVcoLWTb8U/default.jpg",
+            "youtubeId": "0LVcoLWTb8U"
+          },
+          {
+            "episode": 67,
+            "title": "Um Novo Prólogo",
+            "thumbnail": "https://i.ytimg.com/vi/OyHC79JFUD4/default.jpg",
+            "youtubeId": "OyHC79JFUD4"
+          },
+          {
+            "episode": 68,
+            "title": "A Armadilha na Mansão Yojiken",
+            "thumbnail": "https://i.ytimg.com/vi/DEuUpY8DsaI/default.jpg",
+            "youtubeId": "DEuUpY8DsaI"
+          },
+          {
+            "episode": 69,
+            "title": "A Inteligência de Kurama",
+            "thumbnail": "https://i.ytimg.com/vi/CXuF_E0mPxA/default.jpg",
+            "youtubeId": "CXuF_E0mPxA"
+          },
+          {
+            "episode": 70,
+            "title": "Um Novo Enigma",
+            "thumbnail": "https://i.ytimg.com/vi/5G1pcDvU970/default.jpg",
+            "youtubeId": "5G1pcDvU970"
+          },
+          {
+            "episode": 71,
+            "title": "O Terrível Portão das Trevas",
+            "thumbnail": "https://i.ytimg.com/vi/TyXp-nNgxHw/default.jpg",
+            "youtubeId": "TyXp-nNgxHw"
+          },
+          {
+            "episode": 72,
+            "title": "Os Sete Inimigos",
+            "thumbnail": "https://i.ytimg.com/vi/MeR_yfQXizo/default.jpg",
+            "youtubeId": "MeR_yfQXizo"
+          },
+          {
+            "episode": 73,
+            "title": "Doutor, o Misterioso Inimigo",
+            "thumbnail": "https://i.ytimg.com/vi/KKTIViaJBcE/default.jpg",
+            "youtubeId": "KKTIViaJBcE"
+          },
+          {
+            "episode": 74,
+            "title": "Tem Alguma Solução pra Isso, Yusuke",
+            "thumbnail": "https://i.ytimg.com/vi/mboTjtdFpzs/default.jpg",
+            "youtubeId": "mboTjtdFpzs"
+          },
+          {
+            "episode": 75,
+            "title": "Shiman e a sua Armadilha",
+            "thumbnail": "https://i.ytimg.com/vi/miSaFVYgX_M/default.jpg",
+            "youtubeId": "miSaFVYgX_M"
+          },
+          {
+            "episode": 76,
+            "title": "A Ressurreição de Kuwabara! A Volta",
+            "thumbnail": "https://i.ytimg.com/vi/NUbvWvDevYw/default.jpg",
+            "youtubeId": "NUbvWvDevYw"
+          },
+          {
+            "episode": 77,
+            "title": "A Perseguição de Yusuke",
+            "thumbnail": "https://i.ytimg.com/vi/bgnLqwTCvWA/default.jpg",
+            "youtubeId": "bgnLqwTCvWA"
+          },
+          {
+            "episode": 78,
+            "title": "O Passado Negro do Detetive Sobrenatural",
+            "thumbnail": "https://i.ytimg.com/vi/BXMEjjz8_Gs/default.jpg",
+            "youtubeId": "BXMEjjz8_Gs"
+          },
+          {
+            "episode": 79,
+            "title": "O Ataque de Dark Angel",
+            "thumbnail": "https://i.ytimg.com/vi/O8dEYdS35EA/default.jpg",
+            "youtubeId": "O8dEYdS35EA"
+          },
+          {
+            "episode": 80,
+            "title": "Hagure, O Alvo da Morte",
+            "thumbnail": "https://i.ytimg.com/vi/xgEN2nWlH0E/default.jpg",
+            "youtubeId": "xgEN2nWlH0E"
+          },
+          {
+            "episode": 81,
+            "title": "Guerra na Caverna",
+            "thumbnail": "https://i.ytimg.com/vi/2RPB5PTKEuA/default.jpg",
+            "youtubeId": "2RPB5PTKEuA"
+          },
+          {
+            "episode": 82,
+            "title": "A Ameaça de Game Master",
+            "thumbnail": "https://i.ytimg.com/vi/FWYVw8XBclc/default.jpg",
+            "youtubeId": "FWYVw8XBclc"
+          },
+          {
+            "episode": 83,
+            "title": "A Decisão Firme de Kurama",
+            "thumbnail": "https://i.ytimg.com/vi/Xj0UrW7OIV4/default.jpg",
+            "youtubeId": "Xj0UrW7OIV4"
+          },
+          {
+            "episode": 84,
+            "title": "O Ódio de Kurama",
+            "thumbnail": "https://i.ytimg.com/vi/cu05qIevEKY/default.jpg",
+            "youtubeId": "cu05qIevEKY"
+          },
+          {
+            "episode": 85,
+            "title": "O Combate do Detetive Sobrenatural",
+            "thumbnail": "https://i.ytimg.com/vi/13aZpEVKhiw/default.jpg",
+            "youtubeId": "13aZpEVKhiw"
+          },
+          {
+            "episode": 86,
+            "title": "A Dura Batalha de Yusuke",
+            "thumbnail": "https://i.ytimg.com/vi/sR9_iOt4hg8/default.jpg",
+            "youtubeId": "sR9_iOt4hg8"
+          },
+          {
+            "episode": 87,
+            "title": "Koenma e o Golpe Secreto Mafuukan",
+            "thumbnail": "https://i.ytimg.com/vi/WPZrZoq7SSw/default.jpg",
+            "youtubeId": "WPZrZoq7SSw"
+          },
+          {
+            "episode": 88,
+            "title": "Sensui e o Golpe Seikooki",
+            "thumbnail": "https://i.ytimg.com/vi/KMCgn1naVPU/default.jpg",
+            "youtubeId": "KMCgn1naVPU"
+          },
+          {
+            "episode": 89,
+            "title": "   Pequeno Choque! O Final dos Tempos",
+            "thumbnail": "https://i.ytimg.com/vi/PLnUXm_BPRk/default.jpg",
+            "youtubeId": "PLnUXm_BPRk"
+          },
+          {
+            "episode": 90,
+            "title": "A Vontade do Amigo Continua",
+            "thumbnail": "https://i.ytimg.com/vi/C0zzMwQ448Q/default.jpg",
+            "youtubeId": "C0zzMwQ448Q"
+          },
+          {
+            "episode": 91,
+            "title": "O Patrulhamento",
+            "thumbnail": "https://i.ytimg.com/vi/wO7ZF5OO8ho/default.jpg",
+            "youtubeId": "wO7ZF5OO8ho"
+          },
+          {
+            "episode": 92,
+            "title": "A Luta Extrema",
+            "thumbnail": "https://i.ytimg.com/vi/HfMQOfRzMLQ/default.jpg",
+            "youtubeId": "HfMQOfRzMLQ"
+          },
+          {
+            "episode": 93,
+            "title": "A Batalha Violenta",
+            "thumbnail": "https://i.ytimg.com/vi/cDfdPmjEEIM/default.jpg",
+            "youtubeId": "cDfdPmjEEIM"
+          },
+          {
+            "episode": 94,
+            "title": "Epílogo, O Amanhã",
+            "thumbnail": "https://i.ytimg.com/vi/kw-GekCm5Pg/default.jpg",
+            "youtubeId": "kw-GekCm5Pg"
+          },
+          {
+            "episode": 95,
+            "title": "O Destino de Yusuke",
+            "thumbnail": "https://i.ytimg.com/vi/UCq0CUdUWcU/default.jpg",
+            "youtubeId": "UCq0CUdUWcU"
+          },
+          {
+            "episode": 96,
+            "title": "Os Visitantes das Trevas",
+            "thumbnail": "https://i.ytimg.com/vi/wgwXQio8qVY/default.jpg",
+            "youtubeId": "wgwXQio8qVY"
+          },
+          {
+            "episode": 97,
+            "title": "A Despedida",
+            "thumbnail": "https://i.ytimg.com/vi/Em9pH4fPpcY/default.jpg",
+            "youtubeId": "Em9pH4fPpcY"
+          },
+          {
+            "episode": 98,
+            "title": "O Confronto com o Pai",
+            "thumbnail": "https://i.ytimg.com/vi/fFH7bhDGtvc/default.jpg",
+            "youtubeId": "fFH7bhDGtvc"
+          },
+          {
+            "episode": 99,
+            "title": "Lembrança Inesquecível",
+            "thumbnail": "https://i.ytimg.com/vi/Vsi9WCVX-HM/default.jpg",
+            "youtubeId": "Vsi9WCVX-HM"
+          },
+          {
+            "episode": 100,
+            "title": "O Segredo do Olho Diabólico",
+            "thumbnail": "https://i.ytimg.com/vi/_zQPlsZpRow/default.jpg",
+            "youtubeId": "_zQPlsZpRow"
+          },
+          {
+            "episode": 101,
+            "title": "A Luta Violenta",
+            "thumbnail": "https://i.ytimg.com/vi/wgPbBzhk_Bs/default.jpg",
+            "youtubeId": "wgPbBzhk_Bs"
+          },
+          {
+            "episode": 102,
+            "title": "A Luta Entre Pai e Filho",
+            "thumbnail": "https://i.ytimg.com/vi/gZ1BsqTa7vA/default.jpg",
+            "youtubeId": "gZ1BsqTa7vA"
+          },
+          {
+            "episode": 103,
+            "title": "O Início do Novo Torneio",
+            "thumbnail": "https://i.ytimg.com/vi/e9gdurAOQQ4/default.jpg",
+            "youtubeId": "e9gdurAOQQ4"
+          },
+          {
+            "episode": 104,
+            "title": "A Estranha Proposta",
+            "thumbnail": "https://i.ytimg.com/vi/qHKjxIKXTp4/default.jpg",
+            "youtubeId": "qHKjxIKXTp4"
+          },
+          {
+            "episode": 105,
+            "title": "As Últimas Palavras de Laizen",
+            "thumbnail": "https://i.ytimg.com/vi/RJbtIkV0gPU/default.jpg",
+            "youtubeId": "RJbtIkV0gPU"
+          },
+          {
+            "episode": 106,
+            "title": "A Mudança de Kurama Youko",
+            "thumbnail": "https://i.ytimg.com/vi/hyYuocQWddY/default.jpg",
+            "youtubeId": "hyYuocQWddY"
+          },
+          {
+            "episode": 107,
+            "title": "O Ladrão das Trevas",
+            "thumbnail": "https://i.ytimg.com/vi/CbfuLN258M0/default.jpg",
+            "youtubeId": "CbfuLN258M0"
+          },
+          {
+            "episode": 108,
+            "title": "Kurama e o Desligamento com Passado",
+            "thumbnail": "https://i.ytimg.com/vi/5zTT1eVMJsk/default.jpg",
+            "youtubeId": "5zTT1eVMJsk"
+          },
+          {
+            "episode": 109,
+            "title": "A Luta Entre Hiei e Mukuro",
+            "thumbnail": "https://i.ytimg.com/vi/SygKpmDVxho/default.jpg",
+            "youtubeId": "SygKpmDVxho"
+          },
+          {
+            "episode": 110,
+            "title": "A Força Total",
+            "thumbnail": "https://i.ytimg.com/vi/sVwTIMUZHa0/default.jpg",
+            "youtubeId": "sVwTIMUZHa0"
+          },
+          {
+            "episode": 111,
+            "title": "A Decisão Final",
+            "thumbnail": "https://i.ytimg.com/vi/vChh-m4MJek/default.jpg",
+            "youtubeId": "vChh-m4MJek"
+          },
+          {
+            "episode": 112,
+            "title": "Pra Sempre Yu Yu Hakusho",
+            "thumbnail": "https://i.ytimg.com/vi/o1TjSDA99Gg/default.jpg",
+            "youtubeId": "o1TjSDA99Gg"
+          }
+        ]
+      }
+    ]
   }
 ]
